@@ -52,7 +52,7 @@ If not, manually paste the URL into your browser.
 
 ---
 
-### **Alternative: Run inside R or RStudio**
+#### ***Alternative: Run inside R or RStudio***
 
 ```r
 shiny::runApp("path/to/PPI_CCI")
