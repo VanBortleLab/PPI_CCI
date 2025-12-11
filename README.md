@@ -8,6 +8,9 @@ The app loads precomputed interaction matrices and lets users interactively
 select proteins or complexes and generate 3D tetrahedron or triangle visualizations.
 
 ---
+<img width="1222" height="906" alt="Screen Shot 2025-12-11 at 12 31 15 PM" src="https://github.com/user-attachments/assets/1df000a5-7cde-4151-9487-b5a4ef127be0" />
+
+---
 
 ## 📦 Requirements
 
