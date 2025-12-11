@@ -1,0 +1,28 @@
+{
+    "id": "16657A9C",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1765394980667.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "id": "16a05f58d9c64e80b7054a6c2a143a29",
+        "name": "smat_sym",
+        "title": "smat_sym",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 140173419388000,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1765394980667,
+    "read_only": false,
+    "read_only_alternatives": []
+}
