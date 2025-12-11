@@ -28,7 +28,7 @@ Additional packages used in `utils.R` may also be required depending on your env
 ```bash
 git clone https://github.com/VanBortleLab/PPI_CCI.git
 ```
-***Alternative: Simply download the zip file using green button above.
+***Alternative: Simply download the zip file using green button above.***
 
 ### **2. Move to the repository folder**
 
