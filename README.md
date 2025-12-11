@@ -27,10 +27,14 @@ Additional packages used in `utils.R` may also be required depending on your env
 
 ```bash
 git clone https://github.com/VanBortleLab/PPI_CCI.git
+```
+### **2. Move to the repository folder**
+
+```bash
 cd PPI_CCI
 ```
 
-### **2. Run the app from the terminal**
+### **3. Run the app **
 
 ```bash
 Rscript runApp.R
